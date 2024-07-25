@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Rishit Kumar</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=9D00FF&center=true&vCenter=true&width=440&height=45&lines=Data+Analyst+;Data+Scientist+; Automation Specialist;" alt="Typing SVG">
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderx30&label=Profile%20views&color=0e75b6&style=flat" alt="coderx30" /> </p>
